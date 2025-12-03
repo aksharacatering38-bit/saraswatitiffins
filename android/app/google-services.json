@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393174920600",
+    "project_id": "saraswathi-tiffins",
+    "storage_bucket": "saraswathi-tiffins.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393174920600:android:2f8f28e5252917a5654fed",
+        "android_client_info": {
+          "package_name": "com.saraswathi.tiffins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAwVhZtQo5dgjGjHLOxdV7uF6uzy53x-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
